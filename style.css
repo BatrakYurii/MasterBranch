@@ -1,0 +1,11 @@
+tr:nth-child(2n-1){
+    background-color: skyblue;
+}
+
+tr:nth-child(4) {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+
+
+
+
